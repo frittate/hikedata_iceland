@@ -2,10 +2,10 @@
   "type": "Feature",
   "properties": {},
   "summary": {
-    "distance": 6716.1,
-    "duration": 6050.200000000001,
-    "ascent": 145.5,
-    "descent": 143.5
+    "distance": 6151,
+    "duration": 10494.3,
+    "ascent": 631.5,
+    "descent": 559.4
   },
   "geometry": {
     "type": "LineString",
